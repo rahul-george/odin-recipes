@@ -1,0 +1,33 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading-block {
+  border: 4px solid #a6b28b11;
+  width: auto;
+  background-color: #a6b28b9c;
+}
+
+.heading-text {
+  margin-left: 8px;
+  color: #1C352D;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 2px;
+}
+
+.recipe-item {
+  border: 4px solid #f7eee69f;
+  margin-top: 2px;
+  background-color: #f7eee69f;
+}
+
+/* Targets all the anchor tags within the .recipe-item class*/
+.recipe-item a {
+    text-decoration: none;
+    color: #f38b4e;
+    margin-left: 8px;
+}
